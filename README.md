@@ -1,5 +1,5 @@
-#Contacts Diary  (Project)
-##This app works to keep the recorrds of saved contacts with phone numbers, like in mobile phones.
+# Contacts Diary  (Project)
+## This app works to keep the recorrds of saved contacts with phone numbers, like in mobile phones.
  
 ## Assigned by: Sir Saif Hassan
 ## Data Structure and Algorithms
