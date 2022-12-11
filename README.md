@@ -3,11 +3,11 @@
  
 ## Assigned by: Sir Saif Hassan
 ## Data Structure and Algorithms
-##(Sukkur IBA University)
-##completed by:
-##1. Muhammad Muzamil
-##2. Muhammad Shoaib
-##3. Syed Dinal Shah
+## (Sukkur IBA University)
+## completed by:
+## 1. Muhammad Muzamil
+## 2. Muhammad Shoaib
+## 3. Syed Dinal Shah
 
 ## Steps to open:
 ##### 1. open cmd go to src folder of project, or if you have IDE open Contacts diary project in it.
@@ -25,7 +25,7 @@
 ### he apps works same is contacts app in mobile.
   
   
-  Data Structutre and Algorithms used:
+  ###Data Structutre and Algorithms used:
   ## AVL TREE
   ## LinkedList
   ## Deqeue
