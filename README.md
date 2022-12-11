@@ -22,7 +22,7 @@
 
 ## once you go inside the option by selecting number.
 ## there are further options to delete, add, or call any number.
-### he apps works same is contacts app in mobile.
+### The apps works same is contacts app in mobile.
   
   
   ### Data Structutre and Algorithms used:
