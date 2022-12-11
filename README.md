@@ -9,6 +9,12 @@
 ## 2. Muhammad Shoaib
 ## 3. Syed Dinal Shah
 
+# Important:
+# first create four text file in paste them in the src folder.
+ # then copy their address paste on line numbers given in photographs.
+
+
+
 ## Steps to open:
 ##### 1. open cmd go to src folder of project, or if you have IDE open Contacts diary project in it.
 ##### 2. Run the Program,
