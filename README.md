@@ -25,7 +25,7 @@
 ### he apps works same is contacts app in mobile.
   
   
-  ###Data Structutre and Algorithms used:
+  ### Data Structutre and Algorithms used:
   ## AVL TREE
   ## LinkedList
   ## Deqeue
